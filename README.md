@@ -10,4 +10,4 @@
 - gulp
 
 ## 🌐 Ver sitio en vivo
-https://juambeltz.github.io/audifonos/
+https://juambeltz.github.io/podcast/
